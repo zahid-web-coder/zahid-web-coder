@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammed Zahid</h1>
+<h3 align="center">Software Engineer | Web Dev | AI/ML | App Dev | Cloud | Problem Solver</h3>
 
-<!--
-**zahid-web-coder/zahid-web-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zahid-web-coder&label=Profile%20views&color=0e75b6&style=flat" alt="zahid-web-coder" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm a CSE undergrad from AMC Engineering College, Bengaluru, passionate about building real-world tech using **Python, React, Node.js, MongoDB, ML**, and more.
+
+- 👨‍💻 My Portfolio: [zahid-web-coder.github.io/Portfolio](https://zahid-web-coder.github.io/Portfolio)
+- 💼 Currently looking for Software, Product, or AI/ML Internship roles.
+- 💬 Ask me about Full Stack Development, Python, MERN, APIs, AI, and Firebase.
+- 📫 Reach me: **mohammedzahid2217@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
+---
+
+### 🔥 Featured Projects
+
+**🧠 Visionary – AI-Powered Healthcare Platform**  
+> AI chatbot, retinal scan, sentiment detection, yoga analyzer  
+[🔗 GitHub](https://github.com/zahid-web-coder/Visionary) | [🌐 Live Demo](https://zahid-web-coder.github.io/Portfolio#visionary)
+
+**📊 FiNewz – Real-Time Financial News Portal**  
+> Real-time API, curated news, sector-based updates, charts  
+[🔗 GitHub](https://github.com/zahid-web-coder/FiNewz) | [🌐 Live Demo](https://zahid-web-coder.github.io/Portfolio#projects)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zahid-web-coder&show_icons=true&theme=radical" alt="stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=zahid-web-coder&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahid-web-coder&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-zahid-88970b298/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedzahid2217@gmail.com)
+
+---
+
+⭐ *Thanks for visiting my profile! Let's build something impactful together.*
