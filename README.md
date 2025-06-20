@@ -38,7 +38,7 @@
 
 **📊 FiNewz – Real-Time Financial News Portal**  
 > Real-time API, curated news, sector-based updates, charts  
-[🔗 GitHub](https://github.com/zahid-web-coder/FiNewz) | [🌐 Live Demo](https://zahid-web-coder.github.io/Portfolio#projects)
+[🔗 GitHub](https://github.com/zahid-web-coder/FiNewz) | [🌐 Live Demo](https://finewz.onrender.com)
 
 ---
 
