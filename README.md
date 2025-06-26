@@ -33,14 +33,15 @@
 ### 🔥 Featured Projects
 
 **🧠 Visionary – AI-Powered Healthcare Platform**  
-> AI chatbot, retinal scan, sentiment detection, yoga analyzer  
-[🔗 GitHub](https://github.com/zahid-web-coder/Visionary) | [🌐 Live Demo](https://zahid-web-coder.github.io/Portfolio#visionary)
+> AI chatbot, retinal scan diagnostics, sentiment detection, posture analyzer  
+🔗 [GitHub](https://github.com/zahid-web-coder/Visionary)  
+🌐 [Demo Video (LinkedIn)](https://www.linkedin.com/posts/mohammad-zahid-88970b298_aiinhealthcare-digitalhealth-uxdesign-activity-7328417891412795394-XMza)
 
 **📊 FiNewz – Real-Time Financial News Portal**  
-> Real-time API, curated news, sector-based updates, charts  
-[🔗 GitHub](https://github.com/zahid-web-coder/FiNewz) | [🌐 Live Demo](https://finewz.onrender.com)
-
----
+> Real-time APIs, curated finance news, sector-based filters, crypto & stock updates  
+🔗 [GitHub](https://github.com/zahid-web-coder/FiNewz)  
+🌐 [Live Demo](https://finewz.onrender.com)  
+🎥 [Demo Video (LinkedIn)](https://www.linkedin.com/posts/mohammad-zahid-88970b298_finewz-financetech-financialnews-activity-7308326451013947392-oZVv)
 
 ### 📊 GitHub Stats
 
