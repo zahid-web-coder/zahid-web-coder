@@ -44,7 +44,7 @@
 🎥 [Demo Video (LinkedIn)](https://www.linkedin.com/posts/mohammad-zahid-88970b298_finewz-financetech-financialnews-activity-7308326451013947392-oZVv)
 
 **🤖 Auto Job Apply Simulator – Internshala,Linkdin,Naukri Bot**
->A Python automation script that finds Jobs and  internships on Internshala,Linkedin and Naukei based on your preferences. Built using Selenium WebDriver, this bot simulates a user logging in, finding relevant jobs, and applying with a resume and custom cover letter.
+>A Python automation script that finds Jobs and  internships on Internshala,Linkedin and Naukei based on your preferences. Built using Selenium WebDriver, this bot simulates a user logging in, finding relevant jobs, and applying with a resume and custom cover letter
 🔗[GitHub](https://github.com/zahid-web-coder/Auto-job-apply-simulator)  
 🎥 [Demo Video
 (LinkedIn)](https://www.linkedin.com/posts/mohammad-zahid-88970b298_python-automation-internship-activity-7346565189573480449-AAOF?utm_source=share&utm_medium=member_android&rcm=ACoAAEgCIykB62baPuAKowNSqke6nmxc3dVAiVg)
