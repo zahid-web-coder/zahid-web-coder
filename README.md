@@ -35,7 +35,7 @@
 **🧠 Visionary – AI-Powered Healthcare Platform**  
 > AI chatbot, retinal scan diagnostics, sentiment detection, posture analyzer  
 🔗 [GitHub](https://github.com/zahid-web-coder/Visionary)  
-🌐 [Demo Video (LinkedIn)](https://www.linkedin.com/posts/mohammad-zahid-88970b298_aiinhealthcare-digitalhealth-uxdesign-activity-7328417891412795394-XMza)
+🎥 [Demo Video (LinkedIn)](https://www.linkedin.com/posts/mohammad-zahid-88970b298_aiinhealthcare-digitalhealth-uxdesign-activity-7328417891412795394-XMza)
 
 **💹 FiNewz – Real-Time Financial News Portal**  
 > Real-time APIs, curated finance news, sector-based filters, crypto & stock updates  
