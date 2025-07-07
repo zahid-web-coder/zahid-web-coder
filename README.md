@@ -32,7 +32,7 @@
 
 ### 🔥 Featured Projects
 
-**🧠 Visionary – AI-Powered Healthcare Platform**  
+**👁️ Visionary – AI-Powered Healthcare Platform**  
 > AI chatbot, retinal scan diagnostics, sentiment detection, posture analyzer  
 🔗 [GitHub](https://github.com/zahid-web-coder/Visionary)  
 🎥 [Demo Video (LinkedIn)](https://www.linkedin.com/posts/mohammad-zahid-88970b298_aiinhealthcare-digitalhealth-uxdesign-activity-7328417891412795394-XMza)
