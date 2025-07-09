@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Zahid</h1>
+<h1 align="center">Hello 👋, I'm Mohammed Zahid</h1>
 <h3 align="center">Software Engineer | Web Dev | AI/ML | App Dev | Cloud | Problem Solver</h3>
 
 <p align="center">
