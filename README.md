@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Mohammed Zahid</h1>
-<h3 align="center">Software Engineer | Web Dev | AI/ML | App Dev | Cloud | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Zahid</h1>
+<h3 align="center">Backend Engineer (Java) | AI/ML Developer | Generative AI | API Integrations</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zahid-web-coder&label=Profile%20views&color=0e75b6&style=flat" alt="zahid-web-coder" />
@@ -7,65 +7,126 @@
 
 ---
 
-🚀 I'm a CSE undergrad from AMC Engineering College, Bengaluru, passionate about building real-world tech using **Python, React, Node.js, MongoDB, ML**, and more.
+## 🚀 About Me
 
-- 👨‍💻 My Portfolio: [zahid-web-coder.github.io/Portfolio](https://zahid-web-coder.github.io/Portfolio)
-- 💼 Currently looking for Software, Product, or AI/ML Internship roles.
-- 💬 Ask me about Full Stack Development, Python, MERN, APIs, AI, and Firebase.
-- 📫 Reach me: **mohammedzahid2217@gmail.com**
+Computer Science Engineering student (2026) building production-grade backend systems and applied AI solutions.
 
----
+🔹 Integrated enterprise hotel booking APIs (Search → Availability → Booking → Cancel)  
+🔹 Built RAG-based LLM retrieval system indexing 1000+ PDF chunks  
+🔹 Developed CNN + XGBoost ML pipelines (85–92% accuracy)  
+🔹 Designed REST APIs with validation layers & structured logging  
+🔹 Strong foundations in DSA, OOP, System Design & Databases  
 
-### 🛠️ Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+Currently seeking **Software Engineering / Backend / AI roles**.
 
 ---
 
-### 🔥 Featured Projects
+## 💼 Experience
 
-**🏥 Visionary – AI-Powered Healthcare Platform**  
-> AI chatbot, retinal scan diagnostics, sentiment detection, diet planner, posture analyzer, cardio risk analyzer   
-🔗 [GitHub](https://github.com/zahid-web-coder/Visionary)  
-🎥 [Demo Video (LinkedIn)](https://www.linkedin.com/posts/mohammad-zahid-88970b298_aiinhealthcare-digitalhealth-uxdesign-activity-7328417891412795394-XMza)
+### 🏢 TripFactory — Backend Engineering Intern (Java)
+- Owned end-to-end integration of G2Travel supplier APIs
+- Designed reusable validators & response mappers
+- Standardized error handling & response contracts
+- Improved debugging efficiency by 25%
+- Worked with PostgreSQL & production deployment workflows
 
-**💹 FiNewz – Real-Time Financial News Portal**  
-> Real-time APIs, curated finance news, sector-based filters, crypto & stock updates  
-🔗 [GitHub](https://github.com/zahid-web-coder/FiNewz)  
-🌐 [Live Demo](https://finewz.onrender.com)  
-🎥 [Demo Video (LinkedIn)](https://www.linkedin.com/posts/mohammad-zahid-88970b298_finewz-financetech-financialnews-activity-7308326451013947392-oZVv)
+### 🤖 CellStrat — AI Developer Intern
+- Built EEG-based MDD prediction pipeline (85%+ accuracy)
+- Developed ML inference workflows
+- Enhanced Python preprocessing for 500+ EEG samples
 
-**🤖 Auto Job Apply Simulator – Internshala,Linkedin,Naukri Bot**
->A Python automation script that finds Jobs and  internships on Internshala,Linkedin and Naukri based on your preferences                                                                                                               
-🔗[GitHub](https://github.com/zahid-web-coder/Auto-job-apply-simulator)  
-🎥 [Demo Video
-(LinkedIn)](https://www.linkedin.com/posts/mohammad-zahid-88970b298_python-automation-internship-activity-7346565189573480449-AAOF?utm_source=share&utm_medium=member_android&rcm=ACoAAEgCIykB62baPuAKowNSqke6nmxc3dVAiVg)
+### 🌐 EliteTech — Web Development Intern
+- Built responsive React modules
+- Integrated Node.js APIs across 5+ modules
 
-### 📊 GitHub Stats
+---
+
+## 🔥 Featured Projects
+
+### 🏥 Visionary — AI Healthcare Platform
+AI diagnostic system integrating:
+- CNN retinal detection (92% accuracy)
+- XGBoost cardio-risk prediction
+- MediaPipe posture analysis
+- AI chatbot integration
+
+🔗 https://github.com/zahid-web-coder/Visionary
+
+---
+
+### 📚 AcademiQ — NLP Research Analytics
+Hybrid NLP pipeline (TextRank + T5 Transformer)
+- Research paper summarization (100+ papers)
+- Faculty ranking & feedback insights dashboard
+- Presented at iThink 2025
+
+🔗 https://github.com/zahid-web-coder/AcademiQ
+
+---
+
+### 🧠 LLM Query Retrieval System (RAG)
+- FAISS-based semantic search
+- LLM-powered answer generation
+- Indexed 1000+ PDF chunks
+- Reduced research time by 60%
+
+🔗 https://github.com/zahid-web-coder/LLM-query-retrieval
+
+---
+
+### 💹 FiNewz — Real-Time Finance Dashboard
+- NewsAPI + Crypto APIs integration
+- Category-based filtering
+- Responsive React UI
+
+🔗 https://github.com/zahid-web-coder/FiNewz
+
+---
+
+### 🤖 AI Merch Maker — Generative AI Automation
+- Gemini API integration
+- Automated product copy & design generation
+- Shopify-ready listing automation
+
+🔗 https://github.com/zahid-web-coder/AI-Merch-Maker
+
+---
+
+## 🛠 Tech Stack
+
+**Backend:** Java, Spring Boot, Python, Flask  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**AI/ML:** XGBoost, CNNs, Transformers (T5), RAG, FAISS  
+**Frontend:** React, Next.js  
+**Dev Tools:** Docker, Git, Postman, Linux  
+
+---
+
+## 🏆 Certifications
+
+- Oracle AI Vector Search Professional  
+- ChatGPT Prompt Engineering — DeepLearning.AI  
+- AWS Solutions Architecture Job Simulation  
+- Databricks for Generative AI  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahid-web-coder&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zahid-web-coder&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=zahid-web-coder&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahid-web-coder&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-zahid-88970b298/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedzahid2217@gmail.com)
+📧 mohammedzahid2217@gmail.com  
+🔗 https://linkedin.com/in/mohammad-zahid-88970b298  
+💻 https://github.com/zahid-web-coder  
 
 ---
 
-⭐ *Thanks for visiting my profile! Let's build something impactful together.*
+⭐ Building scalable systems & intelligent applications.
