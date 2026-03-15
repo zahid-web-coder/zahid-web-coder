@@ -51,7 +51,6 @@
 ```yaml
 Name     : Mohammed Zahid
 Role     : Backend Engineer + AI/ML Developer
-College  : AMC Engineering College (CSE, 2026)
 Location : Bengaluru, Karnataka 🇮🇳
 Status   : Open to SWE / Backend / AI Roles
 
