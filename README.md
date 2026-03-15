@@ -1,3 +1,71 @@
+<div align="center">
+
+<!-- ANIMATED HEADER SVG -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:a855f7,100:ff6b35&height=200&section=header&text=Mohammed%20Zahid&fontSize=50&fontAlignY=35&desc=Backend%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Generative%20AI&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+Systems+That+Scale+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+AI%2FML+%7C+RAG+%7C+Generative+AI;CSE+2026+%C2%B7+Bengaluru+%C2%B7+Open+to+Opportunities" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://portfolio-rho-seven-5jrzf5wj5q.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Live%20Now-00d4ff?style=for-the-badge&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/mohammad-zahid-88970b298" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Zahid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:mohammedzahid2217@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-mohammedzahid2217-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=zahid-web-coder&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+<h1 align="center">Hi 👋, I'm Mohammed Zahid</h1>
+<h3 align="center">Backend Engineer (Java) &nbsp;|&nbsp; AI/ML Developer &nbsp;|&nbsp; Generative AI &nbsp;|&nbsp; API Integrations</h3>
+
+<p align="center">
+🔹 Integrated enterprise hotel booking APIs (Search → Availability → Booking → Cancel)<br/>
+🔹 Built RAG-based LLM retrieval system indexing 1000+ PDF chunks<br/>
+🔹 Developed CNN + XGBoost ML pipelines (85–92% accuracy)<br/>
+🔹 Designed REST APIs with validation layers &amp; structured logging<br/>
+🔹 Strong foundations in DSA, OOP, System Design &amp; Databases<br/><br/>
+<b>Currently seeking Software Engineering / Backend / AI roles.</b>
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp; About Me
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+
+```yaml
+Name     : Mohammed Zahid
+Role     : Backend Engineer + AI/ML Developer
+College  : AMC Engineering College (CSE, 2026)
+Location : Bengaluru, Karnataka 🇮🇳
+Status   : Open to SWE / Backend / AI Roles
+
+Internships:
+  - TripFactory  → Java Backend  (Oct 2025 – Jan 2026)
+  - CellStrat    → AI Developer  (Jan 2026 – Present)
+  - EliteTech    → Web Dev
+
+Achievement : 🏆 iThink 2025 Winner
+              208 teams · 11 countries
+
+Portfolio   : portfolio-rho-seven-5jrzf5wj5q.vercel.app
+```
+
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
