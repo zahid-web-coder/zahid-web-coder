@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:a855f7,100:ff6b35&height=200&section=header&text=Mohammed%20Zahid&fontSize=50&fontAlignY=35&desc=Backend%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Generative%20AI&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:a855f7,100:ff6b35&height=200&section=header&text=Mohammed%20Zahid&fontSize=50&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Python%20%7C%20AI%2FML%20Developer%20%7C%20Generative%20AI&descAlignY=55&descSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+Systems+That+Scale+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+AI%2FML+%7C+RAG+%7C+Generative+AI;CSE+2026+%C2%B7+Bengaluru+%C2%B7+Open+to+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Java+%7C+Spring+Boot+%7C+Python+%7C+AI%2FML+%7C+RAG+%7C+Generative+AI" alt="Typing SVG" />
 
 <br/>
 
@@ -27,7 +27,7 @@
 <br/>
 
 <h1 align="center">Hi 👋, I'm Mohammed Zahid</h1>
-<h3 align="center">Backend Engineer (Java) &nbsp;|&nbsp; AI/ML Developer &nbsp;|&nbsp; Generative AI &nbsp;|&nbsp; API Integrations</h3>
+<h3 align="center">Backend Engineer (Java · Python) &nbsp;|&nbsp; AI/ML Developer &nbsp;|&nbsp; Generative AI &nbsp;|&nbsp; API Integrations</h3>
 
 <p align="center">
 🔹 Integrated enterprise hotel booking APIs (Search → Availability → Booking → Cancel)<br/>
