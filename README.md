@@ -51,6 +51,7 @@
 ```yaml
 Name     : Mohammed Zahid
 Role     : Backend Engineer + AI/ML Developer
+Course   : Computer Science Engineering
 Location : Bengaluru, Karnataka 🇮🇳
 Status   : Open to SWE / Backend / AI Roles
 
@@ -323,6 +324,8 @@ Built responsive React modules · Integrated Node.js APIs across 5+ modules
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,50:a855f7,100:00d4ff&height=120&section=footer&text=Building%20Scalable%20Systems%20%26%20Intelligent%20Applications&fontSize=14&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,50:a855f7,100:00d4ff&height=120&section=footer&fontSize=14&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
