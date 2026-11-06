@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://portfolio-rho-seven-5jrzf5wj5q.vercel.app" target="_blank">
+<a href="https://zahid-portfolio-drab.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Live%20Now-00d4ff?style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;
@@ -67,7 +67,7 @@ Experience:
 Achievement : 🏆 iThink 2025 Winner
               208 teams · 11 countries
 
-Portfolio   : portfolio-rho-seven-5jrzf5wj5q.vercel.app
+Portfolio   : zahid-portfolio-drab.vercel.app
 ```
 
 <br clear="right"/>
@@ -338,7 +338,7 @@ Built responsive React modules · Integrated Node.js APIs across 5+ modules
 
 <div align="center">
 
-<a href="https://portfolio-rho-seven-5jrzf5wj5q.vercel.app" target="_blank">
+<a href="https://zahid-portfolio-drab.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit%20Now-00d4ff?style=for-the-badge" />
 </a>
 &nbsp;
