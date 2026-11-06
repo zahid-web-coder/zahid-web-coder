@@ -1,15 +1,19 @@
 <div align="center">
 
 <!-- ANIMATED HEADER SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:a855f7,100:ff6b35&height=200&section=header&text=Mohammed%20Zahid&fontSize=50&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Python%20%7C%20AI%2FML%20Developer%20%7C%20Generative%20AI&descAlignY=55&descSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:a855f7,100:ff6b35&height=200&section=header&text=Mohammed%20Zahid&fontSize=50&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Backend%20%7C%20Generative%20AI&descAlignY=55&descSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Java+%7C+Spring+Boot+%7C+Python+%7C+AI%2FML+%7C+RAG+%7C+Generative+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Computer+Vision+%7C+PyTorch+%7C+RF-DETR+%7C+YOLO+%7C+SAM2;Java+%7C+Spring+Boot+%7C+Python+%7C+Flask+%7C+FastAPI;LLMs+%7C+RAG+%7C+VLM+Fine-tuning+%7C+MCP" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://portfolio-rho-seven-5jrzf5wj5q.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Live%20Now-00d4ff?style=for-the-badge&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://model-doctor.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🩺_Model_Doctor-Live%20Demo-a855f7?style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/mohammad-zahid-88970b298" target="_blank">
@@ -27,15 +31,15 @@
 <br/>
 
 <h1 align="center">Hi 👋, I'm Mohammed Zahid</h1>
-<h3 align="center">Backend Engineer (Java · Python) &nbsp;|&nbsp; AI/ML Developer &nbsp;|&nbsp; Generative AI &nbsp;|&nbsp; API Integrations</h3>
+<h3 align="center">AI/ML Engineer &nbsp;|&nbsp; Computer Vision &nbsp;|&nbsp; Backend (Java · Python) &nbsp;|&nbsp; Generative AI</h3>
 
 <p align="center">
-🔹 Integrated enterprise hotel booking APIs (Search → Availability → Booking → Cancel)<br/>
-🔹 Built RAG-based LLM retrieval system indexing 1000+ PDF chunks<br/>
-🔹 Developed CNN + XGBoost ML pipelines (85–92% accuracy)<br/>
-🔹 Designed REST APIs with validation layers &amp; structured logging<br/>
-🔹 Strong foundations in DSA, OOP, System Design &amp; Databases<br/><br/>
-<b>Currently seeking Software Engineering / Backend / AI roles.</b>
+🔹 Led an ML training platform across 6 vision model families<br/>
+🔹 Built Model Doctor, a public tool that diagnoses why vision models fail<br/>
+🔹 Fine-tuned a 7B Vision-Language Model with LoRA<br/>
+🔹 Reached 80% mask mAP@50-95 on segmentation<br/>
+🔹 Built backend systems in Java/Spring Boot, Flask and FastAPI<br/><br/>
+<b>Currently building computer vision and ML systems at Brick &amp; Bolt.</b>
 </p>
 
 <br/>
@@ -50,15 +54,15 @@
 
 ```yaml
 Name     : Mohammed Zahid
-Role     : Backend Engineer + AI/ML Developer
-Course   : Computer Science Engineering
+Role     : AI/ML Engineer + Backend Developer
+Degree   : B.E. Computer Science (2022 – 2026)
 Location : Bengaluru, Karnataka 🇮🇳
-Status   : Open to SWE / Backend / AI Roles
 
-Internships:
-  - TripFactory  → Java Backend  (Oct 2025 – Jan 2026)
-  - CellStrat    → AI Developer  (Jan 2026 – Present)
-  - EliteTech    → Web Dev
+Experience:
+  - Brick & Bolt → SDE-AI/ML     (Mar 2026 – Present)
+  - CellStrat    → AI Intern     (Jan 2026 – Mar 2026)
+  - Orn.com      → SWE Intern    (Oct 2025 – Jan 2026)
+  - EliteTech    → Web Dev Intern
 
 Achievement : 🏆 iThink 2025 Winner
               208 teams · 11 countries
@@ -76,30 +80,39 @@ Portfolio   : portfolio-rho-seven-5jrzf5wj5q.vercel.app
 
 <div align="center">
 
-**Backend & Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
 **AI / ML**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![RF-DETR](https://img.shields.io/badge/RF--DETR-a855f7?style=for-the-badge&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
+![SAM2](https://img.shields.io/badge/SAM2-0467DF?style=for-the-badge&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LoRA](https://img.shields.io/badge/LoRA-ff6b35?style=for-the-badge&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![T5](https://img.shields.io/badge/T5_Transformer-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-a855f7?style=for-the-badge&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-00d4ff?style=for-the-badge&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6B4FBB?style=for-the-badge&logoColor=white)
+
+**Backend & Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Databases & DevOps**
 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -120,29 +133,45 @@ Portfolio   : portfolio-rho-seven-5jrzf5wj5q.vercel.app
 
 <table width="100%">
 <tr>
+<td colspan="2">
+
+### 🏗️ Brick & Bolt
+**SDE-AI/ML · Python · Java**
+`Mar 2026 – Present · Bengaluru`
+
+- 🧠 Led the ML training platform across **6 vision model families**
+- 🎯 Fine-tuned a **7B VLM** and trained RF-DETR and YOLO segmentation models
+- 📈 Raised class-based segmentation from **69% to 80% mAP@50-95**
+- 📐 Contributed to Structural Drawing AI and built its BBS validation layer
+- 🔁 Built checkpoint auto-resume, so deployments don't break running training jobs
+- 🩺 Integrated Model Doctor into the ML platform
+- 🔐 Implemented JWT auth across **5 Spring Boot microservices**
+- ☁️ Built S3 multipart upload for **5GB+** datasets
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### 🏢 TripFactory
-**Backend Engineering Intern · Java**
-`Oct 2025 – Jan 2026 · Bengaluru`
+### 🤖 CellStrat
+**AI Engineer Intern · Python**
+`Jan 2026 – Mar 2026 · Bengaluru`
 
-- ⚡ G2Travel API — Search → Availability → Booking → Cancel
-- 🔧 Reusable validators & response mappers (4+ modules)
-- 📉 Reduced debugging cycles by **25%**
-- ⚙️ Centralized exception handling & structured logging
-- 🗄️ PostgreSQL optimization → integration **30% faster**
+- 🧠 EEG-based prediction model on **500+ samples**
+- 📊 XGBoost model with **85%+ accuracy**
+- 🔗 ML inference pipelines through REST APIs
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 CellStrat
-**AI Developer Intern · Python**
-`Jan 2026 – Present · Bengaluru`
+### 🏢 Orn.com
+**Software Engineer Intern · Java**
+`Oct 2025 – Jan 2026 · Bengaluru`
 
-- 🧠 EEG-based MDD prediction pipeline
-- 📊 XGBoost on 500+ samples → **85%+ accuracy**
-- 🔗 ML inference integrated into REST backend
-- 🧹 Python preprocessing pipelines for EEG features
+- ⚡ G2Travel integration — Search → Availability → Booking → Cancel
+- 🔧 Validation and mapping layers across **4+ modules**
+- 📉 Reduced integration failures by **25%**
+- ⚙️ Logging and exception handling, with issues resolved in under **30 minutes**
 
 </td>
 </tr>
@@ -170,22 +199,22 @@ Built responsive React modules · Integrated Node.js APIs across 5+ modules
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🏥 Visionary — AI Healthcare</h3>
+<h3 align="center">🩺 Model Doctor — Vision Model Diagnosis</h3>
 <div align="center">
-<a href="https://github.com/zahid-web-coder/Visionary">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zahid-web-coder&repo=Visionary&theme=tokyonight&border_color=00d4ff&border_radius=8" />
+<a href="https://github.com/zahid-web-coder/Model-Doctor">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zahid-web-coder&repo=Model-Doctor&theme=tokyonight&border_color=00d4ff&border_radius=8" />
 </a>
 </div>
 <br/>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CNN](https://img.shields.io/badge/-CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-AA4A44?style=flat-square)
-![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
 
-- 🎯 CNN retinal detection — **92% accuracy**
-- 💊 XGBoost cardio-risk prediction
-- 🤖 AI chatbot + MediaPipe posture analysis
+- 🔬 Finds **why** vision models fail, with statistically tested root causes
+- 🗺️ Grad-CAM, YOLO vs RF-DETR comparison and an MCP server
+- ✅ **440 tests** · [Live demo](https://model-doctor.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -198,13 +227,14 @@ Built responsive React modules · Integrated Node.js APIs across 5+ modules
 </div>
 <br/>
 
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
 ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask)
 ![T5](https://img.shields.io/badge/-T5_Transformer-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 - 🏆 **iThink 2025 Winner — 208 teams, 11 countries**
-- 📄 100+ research papers summarized
-- 📊 Faculty ranking & insights dashboard
+- 📄 Extractive, abstractive and hybrid summarization for **100+ papers**
+- 📊 Faculty ranking and insights dashboard
 
 </td>
 </tr>
@@ -224,27 +254,28 @@ Built responsive React modules · Integrated Node.js APIs across 5+ modules
 ![RAG](https://img.shields.io/badge/-RAG-a855f7?style=flat-square)
 
 - 🔍 FAISS semantic search on **1000+ PDF chunks**
+- 📄 PDF clause highlighting and LLM explanations
 - ⚡ Reduced research time by **60%**
-- 🤖 LLM-powered answer generation
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">💹 FiNewz — Finance Dashboard</h3>
+<h3 align="center">🏥 Visionary — AI Healthcare</h3>
 <div align="center">
-<a href="https://github.com/zahid-web-coder/FiNewz">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zahid-web-coder&repo=FiNewz&theme=tokyonight&border_color=22d3a5&border_radius=8" />
+<a href="https://github.com/zahid-web-coder/Visionary">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zahid-web-coder&repo=Visionary&theme=tokyonight&border_color=22d3a5&border_radius=8" />
 </a>
 </div>
 <br/>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CNN](https://img.shields.io/badge/-CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-AA4A44?style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask)
 
-- 📰 NewsAPI + Crypto APIs real-time feed
-- 👥 **200+ users** · Category filtering
-- 📱 Fully responsive UI
+- 🎯 CNN retinal detection — **92% accuracy**
+- 💊 XGBoost cardio-risk prediction
+- 🤖 AI chatbot and posture analysis
 
 </td>
 </tr>
@@ -269,6 +300,7 @@ Built responsive React modules · Integrated Node.js APIs across 5+ modules
 | AWS Solutions Architecture Job Simulation | Amazon Web Services | 2025 |
 | ChatGPT Prompt Engineering | DeepLearning.AI | 2024 |
 | Databricks Generative AI Fundamentals | Databricks | 2024 |
+| 600+ DSA problems solved | LeetCode · CodeChef · GeeksforGeeks | — |
 
 </div>
 
